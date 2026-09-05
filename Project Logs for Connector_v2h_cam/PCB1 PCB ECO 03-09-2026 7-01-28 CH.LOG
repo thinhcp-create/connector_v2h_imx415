@@ -1,0 +1,63 @@
+Added Component: Designator=C?(CAPC_1206_N)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "10uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "CCTC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "TCC1206X5R106K500HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF 50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0402
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "118K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0402DR-07118KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "118K/4/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "51.1K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0402FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51.1K/4/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "8.45K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0402FR-078K45L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8.45K/4/1%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-23-5
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC4_2 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Added Pin To Net: NetName=NetC4_2 Pin=R?-1
+Added Pin To Net: NetName=NetC8_1 Pin=R?-1
+Added Pin To Net: NetName=NetC8_2 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R?-2
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF 50V
+Add Class Member: Failed to add class member : Component R7 226k/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R? 118K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R? 51.1K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8.45K/4/1%
+Add Class Member: Failed to add class member : Component U1 ETA3409S2F
+Added Member To Class: ClassName=Sheet1 Member=Component U? TLV75801PDBVR

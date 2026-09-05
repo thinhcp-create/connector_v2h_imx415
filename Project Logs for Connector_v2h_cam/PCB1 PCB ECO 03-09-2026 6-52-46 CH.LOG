@@ -1,0 +1,61 @@
+Change Component Kind : Designator=C14 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C13 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C8 Old Kind=Standard (No BOM) New Kind=Standard
+Add Component: Footprint Not Found CAPC_1210_N
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found SOT-23-5
+Added Component: Designator=U?(SOT-23-5)
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5)
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLV75801PDBVR"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Pin To Net: NetName=+3V3 Pin=U?-1
+Added Pin To Net: NetName=+3V3 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-3
+Added Pin To Net: NetName=+3V3 Pin=U?-3
+Added Pin To Net: NetName=NetC8_1 Pin=U?-4
+Added Pin To Net: NetName=NetC14_1 Pin=U?-4
+Added Pin To Net: NetName=NetC8_2 Pin=U?-5
+Added Pin To Net: NetName=NetC14_2 Pin=U?-5
+Add Class Member: Failed to add class member : Component C4 10uF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF 50V
+Add Class Member: Failed to add class member : Component R1 8.45K/4/1%
+Add Class Member: Failed to add class member : Component R3 118K/4/1%
+Add Class Member: Failed to add class member : Component R5 51.1K/4/1%
+Add Class Member: Failed to add class member : Component R7 226k/4/1%
+Add Class Member: Failed to add class member : Component U1 ETA3409S2F
+Added Member To Class: ClassName=Sheet1 Member=Component U? TLV75801PDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component U? TLV75801PDBVR

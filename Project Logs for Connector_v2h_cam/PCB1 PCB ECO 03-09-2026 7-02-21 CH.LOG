@@ -1,0 +1,32 @@
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "226K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "AC0402FR-07226KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "226k/4/1%"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5)
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "ETA3409S2F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "etasolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "ETA3409S2F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ETA3409S2F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=R?-1
+Added Pin To Net: NetName=NetC14_1 Pin=R?-2
+Added Pin To Net: NetName=NetC2_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetL1_1 Pin=U?-3
+Added Pin To Net: NetName=NetC2_2 Pin=U?-4
+Added Pin To Net: NetName=NetC?_1 Pin=U?-5
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF-50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8.45K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R? 118K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R? 226k/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component U? TLV75801PDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component U? ETA3409S2F

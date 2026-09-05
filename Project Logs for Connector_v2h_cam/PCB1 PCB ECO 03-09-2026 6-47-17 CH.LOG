@@ -1,0 +1,49 @@
+Add Component: Footprint Not Found CAPC_1210_N
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found CAPC_1210_N
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Class Member: Failed to add class member : Component C1 10uF/50V
+Add Class Member: Failed to add class member : Component C3 22pF-50V
+Add Class Member: Failed to add class member : Component C4 10uF/50V
+Add Class Member: Failed to add class member : Component R1 8.45K/4/1%
+Add Class Member: Failed to add class member : Component R3 118K/4/1%
+Add Class Member: Failed to add class member : Component R5 51.1K/4/1%
+Add Class Member: Failed to add class member : Component R7 226k/4/1%
+Add Class Member: Failed to add class member : Component U1 ETA3409S2F
+Add Class Member: Failed to add class member : Component U2 TLV75801PDBVR
+Add Class Member: Failed to add class member : Component U3 TLV75801PDBVR

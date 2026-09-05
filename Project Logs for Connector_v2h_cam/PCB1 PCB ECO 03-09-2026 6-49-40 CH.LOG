@@ -1,0 +1,66 @@
+Add Component: Footprint Not Found CAPC_1210_N
+Added Component: Designator=C?(CAPC_1206_N)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "10uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "CCTC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "TCC1206X5R106K500HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "22pF-50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CC0402JRNPO9BN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF-50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC3_2 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C?-2
+Added Pin To Net: NetName=NetC2_2 Pin=E2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R2-1
+Added Net: Name=NetC?_1
+Add Class Member: Failed to add class member : Component C4 10uF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF-50V
+Add Class Member: Failed to add class member : Component R1 8.45K/4/1%
+Add Class Member: Failed to add class member : Component R3 118K/4/1%
+Add Class Member: Failed to add class member : Component R5 51.1K/4/1%
+Add Class Member: Failed to add class member : Component R7 226k/4/1%
+Add Class Member: Failed to add class member : Component U1 ETA3409S2F
+Add Class Member: Failed to add class member : Component U2 TLV75801PDBVR
+Add Class Member: Failed to add class member : Component U3 TLV75801PDBVR

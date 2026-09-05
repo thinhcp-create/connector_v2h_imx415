@@ -1,0 +1,211 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=R?-1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=E? NewDesignator=E1
+Change Component Designator: OldDesignator=E? NewDesignator=E2
+Change Component Designator: OldDesignator=E? NewDesignator=E3
+Change Component Designator: OldDesignator=E? NewDesignator=E4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Add Component: Footprint Not Found CAPC_1210_N
+Add Component: Footprint Not Found C0402
+Add Component: Footprint Not Found CAPC_1210_N
+Added Component: Designator=C13(C0402)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100nF/4/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/4/16V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JUMP-2.54-2PIN-M-TH)
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "XKB Connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "X6521WV-2x01H-C60D30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2P"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found R0402
+Added Component: Designator=R4(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K/4/1%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0402
+Added Component: Designator=R6(R0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "10K/4/1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K/4/1%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0402
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Added Component: Designator=Y1(SMD3225-4P)
+Add component (AddParameter): Name = "Category"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Hainv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "24Mhz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Interquip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "1631-24003-BTKEYA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24Mhz"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Add Pin To Net: Unknown Pin: Pin C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Add Pin To Net: Unknown Pin: Pin R5-2
+Added Pin To Net: NetName=+1V8 Pin=R6-1
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-5
+Added Pin To Net: NetName=+1V8 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=+1V8 Pin=Y1-4
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC14_2
+Added Pin To Net: NetName=MCLK Pin=P1-14
+Added Pin To Net: NetName=MCLK Pin=Y1-3
+Added Net: Name=MCLK
+Added Pin To Net: NetName=MCN Pin=J1-8
+Added Pin To Net: NetName=MCN Pin=P1-23
+Added Net: Name=MCN
+Added Pin To Net: NetName=MCP Pin=J1-9
+Added Pin To Net: NetName=MCP Pin=P1-22
+Added Net: Name=MCP
+Added Pin To Net: NetName=MDN1 Pin=J1-2
+Added Pin To Net: NetName=MDN1 Pin=P1-20
+Added Net: Name=MDN1
+Added Pin To Net: NetName=MDN2 Pin=J1-5
+Added Pin To Net: NetName=MDN2 Pin=P1-26
+Added Net: Name=MDN2
+Added Pin To Net: NetName=MDN3 Pin=J1-11
+Added Pin To Net: NetName=MDN3 Pin=P1-17
+Added Net: Name=MDN3
+Added Pin To Net: NetName=MDN4 Pin=J1-14
+Added Pin To Net: NetName=MDN4 Pin=P1-29
+Added Net: Name=MDN4
+Added Pin To Net: NetName=MDP1 Pin=J1-3
+Added Pin To Net: NetName=MDP1 Pin=P1-19
+Added Net: Name=MDP1
+Added Pin To Net: NetName=MDP2 Pin=J1-6
+Added Pin To Net: NetName=MDP2 Pin=P1-25
+Added Net: Name=MDP2
+Added Pin To Net: NetName=MDP3 Pin=J1-12
+Added Pin To Net: NetName=MDP3 Pin=P1-16
+Added Net: Name=MDP3
+Added Pin To Net: NetName=MDP4 Pin=J1-15
+Added Pin To Net: NetName=MDP4 Pin=P1-28
+Added Net: Name=MDP4
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=E2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C5-2
+Added Pin To Net: NetName=NetC3_2 Pin=E1-1
+Added Pin To Net: NetName=NetC3_2 Pin=J3-1
+Added Pin To Net: NetName=NetC3_2 Pin=L1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R4-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=C10-2
+Added Pin To Net: NetName=NetC8_2 Pin=E3-1
+Added Pin To Net: NetName=NetC8_2 Pin=J4-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R8-1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=J2-1
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=J1-18
+Added Pin To Net: NetName=NetJ1_18 Pin=J2-2
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=SDA Pin=J1-21
+Added Pin To Net: NetName=SDA Pin=P1-7
+Added Net: Name=SDA
+Added Pin To Net: NetName=XCLR Pin=C13-2
+Added Pin To Net: NetName=XCLR Pin=P1-11
+Added Pin To Net: NetName=XCLR Pin=R6-2
+Added Net: Name=XCLR
+Add Class Member: Failed to add class member : Component C1 10uF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100nF
+Add Class Member: Failed to add class member : Component C3 22pF-50V
+Add Class Member: Failed to add class member : Component C4 10uF/50V
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 10uF - 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C9 10uF - 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C10 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C11 10uF - 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C13 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C14 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C15 10uF - 16V
+Added Member To Class: ClassName=Sheet1 Member=Component C16 100nF/4/16V
+Added Member To Class: ClassName=Sheet1 Member=Component E1 5A
+Added Member To Class: ClassName=Sheet1 Member=Component E2 5A
+Added Member To Class: ClassName=Sheet1 Member=Component E3 1K-1.5A
+Added Member To Class: ClassName=Sheet1 Member=Component J2 2P
+Added Member To Class: ClassName=Sheet1 Member=Component J3 TP
+Added Member To Class: ClassName=Sheet1 Member=Component J4 TP
+Added Member To Class: ClassName=Sheet1 Member=Component J5 TP
+Add Class Member: Failed to add class member : Component R1 8.45K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K/4/1%
+Add Class Member: Failed to add class member : Component R3 118K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R4 100K/4/1%
+Add Class Member: Failed to add class member : Component R5 51.1K/4/1%
+Added Member To Class: ClassName=Sheet1 Member=Component R6 10K/4/1%
+Add Class Member: Failed to add class member : Component R7 226k/4/1%
+Add Class Member: Failed to add class member : Component U1 ETA3409S2F
+Add Class Member: Failed to add class member : Component U2 TLV75801PDBVR
+Add Class Member: Failed to add class member : Component U3 TLV75801PDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 24Mhz

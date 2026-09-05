@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=MCN New Net Name=MC_N
+Change Net Name : Old Net Name=MCP New Net Name=MC_P
+Change Net Name : Old Net Name=MDN3 New Net Name=MD3_N
+Change Net Name : Old Net Name=MDN4 New Net Name=MD4_N
+Change Net Name : Old Net Name=MDP3 New Net Name=MD3_P
+Change Net Name : Old Net Name=MDP4 New Net Name=MD4_P
+Added Differential Pair: Name=MC
+Added Differential Pair: Name=MD3
+Added Differential Pair: Name=MD4
